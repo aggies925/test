@@ -1,20 +1,29 @@
 {
     "atomType": "Molecule",
-    "name": "test",
+    "name": "Molecpartule",
     "x": 0,
     "y": 0,
-    "uniqueID": 912268,
     "ioValues": [],
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "Svg",
+            "name": "Svg",
+            "x": 0.959375,
+            "y": 0.5107913669064748,
+            "uniqueID": 100235,
+            "ioValues": []
+        },
+        {
             "atomType": "Output",
             "name": "Output",
-            "x": 0.972972972972973,
+            "x": 0.984375,
             "y": 0.5,
             "ioValues": []
         }
     ],
     "allConnectors": [],
-    "fileTypeVersion": 1
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": "2.2"
 }
